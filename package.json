@@ -23,7 +23,7 @@
     "@types/react-dom": "^16.8.4",
     "express": "^4.16.4",
     "express-router": "0.0.1",
-    "mongoose": "^5.5.1",
+    "mongoose": "^7.0.0",
     "node.js": "0.0.0",
     "nodemon": "^1.19.0",
     "passport-local": "^1.0.0",
